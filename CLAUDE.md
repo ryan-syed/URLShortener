@@ -2,6 +2,15 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Development Workflow
+
+Follow the **Explore, Plan, Code, Commit** workflow:
+
+1. **Explore**: Use search tools (Grep, Glob, Task) to understand the codebase and locate relevant files
+2. **Plan**: Use TodoWrite to break down tasks into specific, actionable steps
+3. **Code**: Implement changes following existing patterns and conventions
+4. **Commit**: Only commit when explicitly requested by the user
+
 ## Project Overview
 
 This is a .NET 9.0 C# ASP.NET Core web application project for URL shortening. The application uses minimal APIs and is currently in early development with a basic "Hello World" endpoint.
